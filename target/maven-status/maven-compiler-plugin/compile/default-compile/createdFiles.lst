@@ -1,0 +1,17 @@
+View\MemberView$1.class
+Model\DatabaseConnection.class
+Model\Member.class
+View\MemberView.class
+Controller\BookController.class
+Model\Book.class
+Model\MembershipCard.class
+Model\DatabaseManager.class
+Controller\MemberController.class
+View\BookView$1.class
+View\LoginView.class
+View\MainMenuView.class
+Controller\LoginController$2.class
+View\BookView.class
+Controller\LoginController$1.class
+Controller\LoginController.class
+Main\Main.class
